@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **brushing up my skills**
 
-- 🌱 I’m currently learning **Full Stack Web Development And Data Structures & Algorithms**
+- 🌱 I’m currently learning **Full Stack Web Development, Data Structure & Algorithm**
 
 - 👯 I’m looking to collaborate on **MERN Stack project**
 
