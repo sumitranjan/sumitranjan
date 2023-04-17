@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumit Ranjan</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **brushing up my skills**
-
-- 🌱 I’m currently learning **Full Stack Web Development, Data Structure & Algorithm**
-
-- 👯 I’m looking to collaborate on **MERN Stack project**
+### 💻 &nbsp;About Me 
+A dedicated and efficient web developer with 2 years of experience and Certified in both Frontend and Backend technologies, demonstrating a strong foundation in MERN Stack development. Committed to being a proactive problem-solving and effective collaboration with colleagues to achieve project goals.
 
 - 💬 Ask me about **Node.js, JavaScript, React.js, HTML, CSS**
 
